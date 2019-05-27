@@ -1,0 +1,5 @@
+env: pytorch-1.0
+input:
+  - destination: amazon_reviews
+    source: gabrielloye/datasets/amazon_reviews/1
+machine: gpu
