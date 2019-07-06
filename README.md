@@ -2,7 +2,7 @@
 
 This repo holds the code for the implementation in my FloydHub article on LSTMs:
 
-[Link to be added](http://link/to/article)
+[Link to article](https://blog.floydhub.com/long-short-term-memory-from-zero-to-hero-with-pytorch/)
 
 Index
 -----
